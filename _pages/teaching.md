@@ -1,12 +1,25 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Here you can find the prepared materials for courses
 
-Organize your courses by years, topics, or universities, however you like!
+Fall 2023: CS549-Learning for Robotics 
+--------------------------------------
+
+-   [Tutorial_1](../assets/pdf/tutorial1.pdf)
+
+-   [Tutorial_2](../assets/pdf/.pdf)
+
+-   [HW_1](../assets/pdf/hw1.pdf)
+
+-   [HW_2](../assets/pdf/hw2.pdf)
+
+-   [Drake Tutorial](https://medium.com/@berk9848/drake-first-tutorial-275042d145b4)
+
+-   [RAI Installation](../assets/pdf/rai_install.pdf)

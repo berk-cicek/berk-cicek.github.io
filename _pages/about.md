@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
@@ -20,6 +20,6 @@ I'm an M.S. student in the [Computer Engineering Department](https://w3.cs.bilke
 
 I obtained my B.S. from the [Mechanical Engineering Department at Bilkent University](https://me.bilkent.edu.tr/), majoring in mechanical engineering, with an emphasis on robotics.
 
-For a comprehensive overview of my professional journey, please refer to my [CV](assets/pdf/cicek_cv.pdf).
+For a comprehensive overview of my professional journey, please refer to my [CV](assets/pdf/cicek_cv.pdf). 
 
 Feel free to reach out to me via [Email](mailto:cicekberk8@bilkent.edu.tr), I would be happy to chat and connect.
