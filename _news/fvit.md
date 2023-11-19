@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The first draft of our paper, 'FViT-Grasp: Grasping Objects With Using Fast Vision Transformers' is finished and is now being prepared for submission to [IROS'24](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros). You can access the manuscript [here](assets/pdf/fvit.pdf)
+The first draft of our paper, ['FViT-Grasp: Grasping Objects With Using Fast Vision Transformers'](assets/pdf/fvit.pdf) is finished and is now being prepared for submission to [IROS'24](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros). You can access the manuscript [here](assets/pdf/fvit.pdf)
