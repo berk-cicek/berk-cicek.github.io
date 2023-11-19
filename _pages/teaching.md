@@ -20,7 +20,7 @@ Fall 2023: [CS549-Learning for Robotics](https://stars.bilkent.edu.tr/syllabus/v
 
 -   [HW_2](../assets/pdf/hw2.pdf)
 
-    Sample Solutions from Students:      [Video](https://www.youtube.com/watch?v=P8mHgP2lB8Q)                    [Report](../assets/pdf/hw2_sol.pdf)
+    Sample Solutions from Students:   |   [Video](https://www.youtube.com/watch?v=P8mHgP2lB8Q)         |           [Report](../assets/pdf/hw2_sol.pdf)
 
 -   [Drake Tutorial](https://medium.com/@berk9848/drake-first-tutorial-275042d145b4)
 
